@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "598415901940",
+    "firebase_url": "https://teslasmartcar-a606b.firebaseio.com",
+    "project_id": "teslasmartcar-a606b",
+    "storage_bucket": "teslasmartcar-a606b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598415901940:android:fd3ce110729cc65c790aa1",
+        "android_client_info": {
+          "package_name": "tesla.hrishi3331studio.vnit.teslasmartcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598415901940-kn74s9n8loq5m7k7n92k4bfemhvac27c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tesla.hrishi3331studio.vnit.teslasmartcar",
+            "certificate_hash": "20c2b8b746e32d5de32080f9c55f6d1adc3f7fff"
+          }
+        },
+        {
+          "client_id": "598415901940-fc06tgcas6tv507r5bpcfao4mh0hlm0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK47Tqy0xJlj5m0u0fFU0LI3EGuPgWrRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598415901940-fc06tgcas6tv507r5bpcfao4mh0hlm0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
